@@ -99,6 +99,7 @@ The Contact page will include:<br>
 •	Office information.<br>
 •	Embedded Google Maps.<br>
 •	Site Map showing the physical locations of Netcampus offices.<br>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d3b1e56-eb79-46ea-8e44-d0c88886a4fb" />
 
 Timeline and Milestones: <br>
 Week 1	Research Netcampus and gather information	<br>
