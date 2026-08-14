@@ -1,6 +1,6 @@
 # WEDE5020
 Projectile Title: Netcampus Website Assignment<br>
-Student Information: Tumelo Motlokoa ST10486726
+Student Information: Tumelo Motlokoa ST10486726<br>
 Project Overview: Name
 Netcampus Group
 Brief History
@@ -29,7 +29,7 @@ The proposed website will target:
 •	Individuals looking to obtain technology certifications.
 •	Businesses requiring employee training.
 •	Government organisations.
-•	NGOs and other organisations requiring ICT skills development.
+•	NGOs and other organisations requiring ICT skills development.<br>
 Website Goals and Objectives: Goals
 The main goal of the proposed website is to provide users with clear, accessible and organised information about Netcampus, its services, courses and physical locations.
 Objectives
@@ -50,7 +50,7 @@ The success of the website can be measured using:
 •	Number of users viewing course information.
 •	Number of users accessing the contact/location page.
 •	Number of users returning to the website.
-•	Number of potential learners making training enquiries.
+•	Number of potential learners making training enquiries.<br>
 Key Features and Functionality: Home Page
 The home page will introduce Netcampus and provide a short overview of its ICT training services.
 It will contain:
@@ -97,7 +97,7 @@ The Contact page will include:
 •	Contact form.
 •	Office information.
 •	Embedded Google Maps.
-•	Site Map showing the physical locations of Netcampus offices.
+•	Site Map showing the physical locations of Netcampus offices.<br>
 
 Timeline and Milestones: 
 Week 1	Research Netcampus and gather information	
@@ -109,9 +109,9 @@ Week 6	Add images, maps and hyperlinks
 Week 7	Test all pages and hyperlinks
 Week 8	Correct errors and improve content
 Week 9	Final testing and documentation
-Week 10	Final submission
-Part 1 Details: My submission contains Private Github repository, README.md file, Wireframes for the 5 pages and a Visual and XML sitemap.
-Changelog: 10 August 2026: Structured README.md with academic subtitles.
+Week 10	Final submission<br>
+Part 1 Details: My submission contains Private Github repository, README.md file, Wireframes for the 5 pages and a Visual and XML sitemap.<br>
+Changelog: 10 August 2026: Structured README.md with academic subtitles.<br>
 References: Netcampus Group. (2026). About Us. Official Netcampus website.
 Netcampus About Us
 Netcampus Group. (2026). Home. Official Netcampus website.
@@ -119,7 +119,7 @@ Netcampus Official Website
 Netcampus Group. (2026). Contact Us. Official Netcampus website.
 Netcampus Contact Us
 Netcampus Group. (2026). Courses and Exam Schedules. Official Netcampus website.
-Netcampus Course Schedules
+Netcampus Course Schedules<br>
 
 
  
