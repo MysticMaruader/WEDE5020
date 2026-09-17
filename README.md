@@ -122,6 +122,14 @@ Netcampus Group. (2026). Contact Us. Official Netcampus website.
 Netcampus Contact Us
 Netcampus Group. (2026). Courses and Exam Schedules. Official Netcampus website.
 Netcampus Course Schedules<br>
+Fix mobile navigation toggle placement inside header element
 
+Clean up HTML spacing and remove redundant CSS comments
+
+Fix duplicate main section tags and clean up page layout
+
+Update page markup and fix relative file paths
+
+Ensure responsive image formatting across all pages
 
  
