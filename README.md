@@ -150,3 +150,4 @@ style(footer): center footer typography and fix margin spacing on small screen s
 fix(layout): convert service-container flex layout to single-column column on mobile devices
 refactor(body): optimize fixed background image performance across about, services, and contact pages
 style(buttons): unify button active transform states for consistent user click feedback
+chore(styles): balance global body line-height and font-family fallbacks for uniform rendering
