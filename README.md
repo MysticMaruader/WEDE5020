@@ -193,3 +193,101 @@ MDN Web Docs. (2026). Using Media Queries for Device Breakpoints. Mozilla Develo
 
 W3C. (2023). HTML5 Accessibility and Semantic Elements Specification. World Wide Web Consortium. https://www.w3.org/TR/html5/
 
+13 August 2026 — Initial Repository Setup & Project Proposal
+
+docs(readme): Initialized repository structure and created basic README file
+
+docs(proposal): Outlined Netcampus Group project goals, target audience, and 10-week milestones
+
+docs(references): Added initial academic and official website reference links
+
+14 August 2026 — Project Documentation & Layout Planning
+
+docs(changelog): Structured README.md with academic subtitles and initial changelog entry (10 August)
+
+docs(assets): Added wireframe diagrams for 5 main pages and visual XML sitemap
+
+feat(structure): Created initial baseline HTML templates for Home, About Us, Services, Courses, and Contact pages
+
+13 September 2026 — Core HTML & Path Corrections
+
+fix(html): Updated page markup and fixed relative file paths across all page templates
+
+fix(layout): Fixed duplicate main section tags and cleaned up core page layouts
+
+style(markup): Cleaned up HTML spacing and removed redundant inline code comments
+
+14 September 2026 — Header Navigation & Image Utilities
+
+fix(header): Fixed mobile navigation toggle placement inside header element
+
+style(images): Ensured responsive image formatting and asset positioning across all pages
+
+refactor(body): Optimized fixed background image performance across About, Services, and Contact pages
+
+15 September 2026 — CSS Grid & Form Standardization
+
+refactor(grid): Optimized course-grid and sitemap column layouts for desktop and mobile screens
+
+style(forms): Standardized text input, label, and textarea styling across all contact forms
+
+fix(images): Enforced responsive max-width rules on hero banners to prevent viewport overflowing
+
+16 September 2026 — UI Polish & Accessibility Rules
+
+refactor(theme): Aligned card hover elevation animations and subtle shadow transitions
+
+style(footer): Centered footer typography and fixed margin spacing on small screen sizes
+
+fix(accessibility): Added high-contrast focus outlines for interactive buttons and navigation links
+
+style(buttons): Unified button active transform states for consistent user click feedback
+
+17 September 2026 — Navigation & Responsive Layout Adjustments
+
+fix(navigation): Resolved mobile menu overflow by removing max-height restrictions and overflow clipping
+
+refactor(styles): Consolidated redundant @media screen (max-width: 768px) queries into unified blocks
+
+fix(layout): Converted service-container flex layout to single-column stack on mobile devices
+
+chore(styles): Balanced global body line-height and font-family fallbacks for uniform rendering
+
+18 September 2026 — Multi-Device Support & Minimalist Refactor (Current)
+
+feat(responsive): Added multi-device @media query support for tablet/iPad viewports (769px – 1024px)
+
+feat(mobile): Implemented small mobile viewport support (max-width: 480px) with full-width action buttons
+
+style(theme): Reverted body background images to a clean solid color palette (#f8fafc) per instructor feedback
+
+docs(changelog): Updated version history (v1.2.0), changelog, and reference list for project submission
+
+# Changelog - Netcampus Website Assignment (WEDE5020)
+**Student:** Tumelo Motlokoa (ST10486726)
+
+## [1.2.0] - 2026-09-18
+### Added
+- Added multi-device `@media` query support for tablet/iPad viewports (769px – 1024px) with 2-column grid scaling.
+- Added small mobile viewport support (`max-width: 480px`) featuring full-width touch buttons and optimized header typography.
+
+### Refactored
+- Reverted body background images across all pages to a clean solid color palette (`#f8fafc`) per instructor feedback.
+- Finalized changelog, references, and commit history for submission.
+
+## [1.1.0] - 2026-09-17
+### Fixed
+- Resolved mobile navigation drawer link truncation by setting `max-height: none` and `overflow-y: visible`.
+- Merged redundant media queries into unified breakpoint blocks.
+
+### Improved
+- Cleaned up obsolete code comments, inline annotations, and formatting artifacts.
+- Improved element accessibility by defining high-contrast `:focus`, `:hover`, and `:active` pseudo-class styles.
+
+## [1.0.0] - 2026-08-14
+### Initial Release
+- Created standard HTML5 semantic page layouts (`header`, `nav`, `main`, `footer`).
+- Built functional mobile hamburger navigation using pure CSS sibling selectors (`.menu-toggle:checked ~ nav`).
+- Designed modular component structures including `.service-card`, `.course-grid`, `.sitemap`, and multi-column CSS Grid templates.
+
+
