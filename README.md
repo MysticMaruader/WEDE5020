@@ -144,3 +144,4 @@ fix(accessibility): add high-contrast focus outlines for interactive buttons and
 - Clean up unused comment blocks and formatting artifacts
  refactor(grid): optimize course-grid and sitemap column layouts for desktop and mobile screens
 style(forms): standardize text input, label, and textarea styling across all contact forms
+fix(images): enforce responsive max-width rules on hero banners to prevent viewport overflowing
