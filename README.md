@@ -113,7 +113,12 @@ Week 8	Correct errors and improve content<br>
 Week 9	Final testing and documentation<br>
 Week 10	Final submission<br>
 Part 1 Details: My submission contains Private Github repository, README.md file, Wireframes for the 5 pages and a Visual and XML sitemap.<br>
-Changelog: 10 August 2026: Structured README.md with academic subtitles.<br>
+
+
+
+
+
+**Changelog**: 10 August 2026: Structured README.md with academic subtitles.<br>
 References: Netcampus Group. (2026). About Us. Official Netcampus website.<br>
 Netcampus About Us
 Netcampus Group. (2026). Home. Official Netcampus website.
@@ -147,7 +152,44 @@ style(forms): standardize text input, label, and textarea styling across all con
 fix(images): enforce responsive max-width rules on hero banners to prevent viewport overflowing
 refactor(theme): align card hover elevation animations and subtle shadow transitions
 style(footer): center footer typography and fix margin spacing on small screen sizes
+Current Project Version: v1.2.0
+
+v1.2.0 — Tablet Responsiveness & Minimalist Layout Refactor
+
+Added multi-device @media query support for tablet/iPad viewports (769px – 1024px) with 2-column grid scaling.
+
+Added small mobile viewport support (max-width: 480px) featuring full-width touch buttons and optimized header typography.
+
+Reverted body background images across all pages (home-page, about-page, services-page, courses-page, contact-page) to a clean solid color palette (#f8fafc) per instructor feedback.
+
+v1.1.0 — Mobile Navigation & Code Optimization
+
+Resolved mobile navigation drawer link truncation by setting max-height: none and overflow-y: visible.
+
+Merged redundant media queries into unified breakpoint blocks.
+
+Refactored stylesheet to remove artificial comment banners, inline annotations, and code duplication.
+
+Improved element accessibility by defining high-contrast :focus, :hover, and :active pseudo-class styles.
+
+v1.0.0 — Initial Baseline Layout
+
+Created standard HTML5 semantic page layouts (header, nav, main, footer).
+
+Built functional mobile hamburger navigation using pure CSS sibling selectors (.menu-toggle:checked ~ nav).
+
+Designed modular component structures including .service-card, .course-grid, .sitemap, and multi-column CSS Grid page templates.
 fix(layout): convert service-container flex layout to single-column column on mobile devices
 refactor(body): optimize fixed background image performance across about, services, and contact pages
 style(buttons): unify button active transform states for consistent user click feedback
 chore(styles): balance global body line-height and font-family fallbacks for uniform rendering
+
+Reference List
+Duckett, J. (2011). HTML and CSS: Design and Build Websites. John Wiley & Sons.
+
+MDN Web Docs. (2026). CSS Responsive Design & Media Queries. Mozilla Developer Network. https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design
+
+MDN Web Docs. (2026). Using Media Queries for Device Breakpoints. Mozilla Developer Network. https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
+
+W3C. (2023). HTML5 Accessibility and Semantic Elements Specification. World Wide Web Consortium. https://www.w3.org/TR/html5/
+
