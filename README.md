@@ -138,7 +138,7 @@ fix(navigation): resolve mobile menu overflow and merge responsive CSS
 - Consolidate redundant @media screen max-width(768px) queries into a unified block
 - Clean up outdated comments and formatting across style.css
 - refactor(styles): optimize CSS architecture and remove code duplication
-
+fix(accessibility): add high-contrast focus outlines for interactive buttons and navigation links
 - Consolidate media queries for responsive layouts
 - Standardize spacing, font scales, and background image rules
 - Clean up unused comment blocks and formatting artifacts
