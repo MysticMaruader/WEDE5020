@@ -131,5 +131,15 @@ Fix duplicate main section tags and clean up page layout
 Update page markup and fix relative file paths
 
 Ensure responsive image formatting across all pages
+fix(navigation): resolve mobile menu overflow and merge responsive CSS
 
+- Remove max-height restriction and overflow-y clipping on mobile nav drawer
+- Allow navigation links to render in a single expanded viewport
+- Consolidate redundant @media screen max-width(768px) queries into a unified block
+- Clean up outdated comments and formatting across style.css
+- refactor(styles): optimize CSS architecture and remove code duplication
+
+- Consolidate media queries for responsive layouts
+- Standardize spacing, font scales, and background image rules
+- Clean up unused comment blocks and formatting artifacts
  
