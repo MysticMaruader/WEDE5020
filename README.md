@@ -142,4 +142,4 @@ fix(accessibility): add high-contrast focus outlines for interactive buttons and
 - Consolidate media queries for responsive layouts
 - Standardize spacing, font scales, and background image rules
 - Clean up unused comment blocks and formatting artifacts
- 
+ refactor(grid): optimize course-grid and sitemap column layouts for desktop and mobile screens
