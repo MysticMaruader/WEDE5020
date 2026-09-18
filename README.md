@@ -147,3 +147,4 @@ style(forms): standardize text input, label, and textarea styling across all con
 fix(images): enforce responsive max-width rules on hero banners to prevent viewport overflowing
 refactor(theme): align card hover elevation animations and subtle shadow transitions
 style(footer): center footer typography and fix margin spacing on small screen sizes
+fix(layout): convert service-container flex layout to single-column column on mobile devices
