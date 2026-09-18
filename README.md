@@ -143,3 +143,4 @@ fix(accessibility): add high-contrast focus outlines for interactive buttons and
 - Standardize spacing, font scales, and background image rules
 - Clean up unused comment blocks and formatting artifacts
  refactor(grid): optimize course-grid and sitemap column layouts for desktop and mobile screens
+style(forms): standardize text input, label, and textarea styling across all contact forms
