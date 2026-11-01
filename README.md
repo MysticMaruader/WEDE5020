@@ -289,5 +289,10 @@ docs(changelog): Updated version history (v1.2.0), changelog, and reference list
 - Created standard HTML5 semantic page layouts (`header`, `nav`, `main`, `footer`).
 - Built functional mobile hamburger navigation using pure CSS sibling selectors (`.menu-toggle:checked ~ nav`).
 - Designed modular component structures including `.service-card`, `.course-grid`, `.sitemap`, and multi-column CSS Grid templates.
-
+fix(sitemap): add xml header declaration and proper styled sitemap.html
+update: sitemap fix and latest website content
+feat(contact): add complete enquiry form with web3forms redirect
+fix(contact): make message field the only required form field
+feat(contact): embed interactive google map inside contact section
+feat(contact): add web3forms redirect property to contact form
 
