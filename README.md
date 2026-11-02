@@ -295,4 +295,4 @@ feat(contact): add complete enquiry form with web3forms redirect
 fix(contact): make message field the only required form field
 feat(contact): embed interactive google map inside contact section
 feat(contact): add web3forms redirect property to contact form
-
+feat: add lightbox image popup and sync hamburger header on all pages
